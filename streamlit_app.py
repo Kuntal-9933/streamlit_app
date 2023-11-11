@@ -4,7 +4,7 @@ import streamlit as st
 # Define the main function for the app
 def main():
     # Set the title of the app
-    st.title("My Streamlit App")
+    st.title("Kuntal Mukherjee Streamlit app")
 
     # Add a sidebar with options
     options = ["Home", "About", "Contact"]
